@@ -2,6 +2,7 @@
 
 **Summary:** This is the challenge project for the Module 6. Three deliverables are required and it is involved the MAPS Directions API to create a fictional app called "PlanMyTrip app". 
 
+
 **Content:**
   * Deliverable 1: Retrieve Weather Data - Set of 2,000 random latitudes and longitudes, retrieve the nearest city, and perform an API call with the OpenWeatherMap. We have the current weather information. *Outputs: Into the Weather_Database folder you find: WeatherPy_Database.csv (data) and Weather_Database.ipynb (code file).*
 
